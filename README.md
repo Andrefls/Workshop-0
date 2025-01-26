@@ -1,6 +1,6 @@
 Website link: https://andrefls.github.io/Workshop-task-0/
 
-Synopsis
+## Synopsis
 
 - After finishing the first class, I felt a bit overwhelmed since it was my first time trying a course that taught a coding language.
 - The first step was brainstorming to see what I could create.
@@ -9,7 +9,7 @@ Synopsis
 - I imagined the circle moving down to mimic the setting sun, and then reversing to represent the sunrise.
 - From my previous experience in design, I was familiar with the basics of RGB color. I chose some main colors for the shapes: red and yellow.
 
-Summary/Problem solving
+## Summary/Problem solving
 
 - I visited https://p5js.org/reference/p5/circle/ and researched a bit about the circle, exploring some basic functions and the possibilities I could do with this shape.
    
@@ -37,7 +37,7 @@ I ended up animating a circle moving downwards and representing a mountain with 
 - In the end, I got closer to the animation I wanted; however, there is a lot to improve regarding speed, movement, transformations, and elements bouncing back.
 
   
-Future development
+## Future development
 
 - To solve the problem I encountered, I want to learn how to create transformations and understand how to use p5.js to execute actions with compressed code. My goal is to use these new skills to create art.
 
