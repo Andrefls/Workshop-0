@@ -41,6 +41,6 @@ I ended up animating a circle moving downwards and representing a mountain with 
 
 - To solve the problem I encountered, I want to learn how to create transformations and understand how to use p5.js to execute actions with compressed code. My goal is to use these new skills to create art.
 
-Conclusion
+## Conclusion
 
 - I have concluded that my mind constantly seeks to push beyond its limits. Coding can be very distracting, but if you dedicate time to it, you can bring your ideas to life.
